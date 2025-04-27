@@ -10,12 +10,12 @@ An unofficial desktop application built with Electron that provides a dedicated 
 * **Website Availability:** The `crackstreams.cx` website's availability, domain, and content are outside the control of this application and may change or cease operation without notice.
 
 ---
+## ONLY ON WINDOWS CURRENTLY
 
 ## Features
 
 * Provides a dedicated desktop window for accessing `crackstreams.cx`.
 * Simple wrapper around the web version, aiming for a browser-tab-free experience.
-* Cross-platform (should work on Windows, macOS, and Linux where Electron is supported).
 
 ## Installation
 
